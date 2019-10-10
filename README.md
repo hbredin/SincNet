@@ -14,8 +14,9 @@ An example of speaker identification with the TIMIT database is provided. If you
 ## Cite us
 If you use this code or part of it, please cite us!
 
-*Mirco Ravanelli, Yoshua Bengio, “Speaker Recognition from raw waveform with SincNet”* [Arxiv](http://arxiv.org/abs/1808.00158)
-
+Mirco Ravanelli, Yoshua Bengio.  
+"[Speaker Recognition from raw waveform with SincNet](http://arxiv.org/abs/1808.00158)"  
+IEEE Workshop on Spoken Language Technology, 2018. 
 
 ## Prerequisites
 - Linux
